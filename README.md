@@ -1,2 +1,2 @@
 # Auto-Backup
-Auto Backup to Anonfile
+Auto Backup will upload your files to Anonfile and send the link with Discord Webhook
